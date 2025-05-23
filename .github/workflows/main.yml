@@ -35,7 +35,7 @@ on:
         default: true
 
       ipa_url:
-        description: "URL to the decrypted IPA file"
+        description: "https://filebin.net/9wx8hbzjnao2s327"
         default: ""
         required: true
         type: string
